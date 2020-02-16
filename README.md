@@ -1,4 +1,4 @@
-URL: https://anetalaurent.github.io/project3/
+URL: https://anetalaurent.github.io/projet3/
 
 
 
