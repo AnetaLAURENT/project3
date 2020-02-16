@@ -1,4 +1,5 @@
 URL: https://anetalaurent.github.io/project3/
+ <img src="Screenshot.jpg" alt="Ireki site"> 
 
 DESCRIPTIF
 
